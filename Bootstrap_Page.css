@@ -1,0 +1,48 @@
+.navbar .navbar-brand > img{ 
+    height: 60px;
+    width: 75px;
+}
+.nav-link{
+    font-size: 25px;
+    font-weight: 700;
+}
+.dropdown-item{
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+nav .navbar-nav li a{
+    color: rgb(255, 255, 255) !important;
+}
+.nav-link:hover {
+    color: greenyellow !important;
+}
+.dropdown-item:hover {
+    color: greenyellow !important;
+    background-color: rgb(108, 117, 125);
+}
+.carousel-item img{
+    height: 700px;
+}
+.info_head{
+    font-size: 40px;
+}
+.info{
+    font-size: 25px;
+}
+.service_head{
+    margin-top: 75px;
+    margin-bottom: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+.row{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.footer{
+    margin-top: 150px;
+}
+.footer_write{
+    background-color: gainsboro;
+}
